@@ -16,9 +16,9 @@ Cleaned EWAS data in RDS format as follows:
 Input data must be 24 columns of CpG and 1 column of Age, each row represents sample, and there is not limit on amount of sample. 
 
 ## Name of CpGs are: 
-                                      "cg17219656" "cg02259047" "cg26325880" "cg01393939" "cg21759874" "cg03544399"
-                                      "cg09595050" "cg19277182" "cg21655710" "cg26565580" "cg10129063" "cg24477583" 
-                                      "cg02979491" "cg11282100" "cg04403861" "cg09958418" "cg07341914" "cg02937343"
-                                      "cg01174708" "cg20064370" "cg14197071" "cg27366810" "cg13451733" "cg18592384" 
+                    "cg17219656" "cg02259047" "cg26325880" "cg01393939" "cg21759874" "cg03544399"
+                    "cg09595050" "cg19277182" "cg21655710" "cg26565580" "cg10129063" "cg24477583" 
+                    "cg02979491" "cg11282100" "cg04403861" "cg09958418" "cg07341914" "cg02937343"
+                    "cg01174708" "cg20064370" "cg14197071" "cg27366810" "cg13451733" "cg18592384" 
 
 When missing CpG, using 0 instead.
